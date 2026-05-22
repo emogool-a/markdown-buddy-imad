@@ -17,9 +17,11 @@ Install the required R packages:
 
 ```r
 install.packages("tidyverse")
+
 Usage
 
 Run the R script in RStudio or Posit Cloud.
+
 Example Code
 library(tidyverse)
 
@@ -29,12 +31,15 @@ data <- data.frame(
 )
 
 summary(data)
+
 Results
 
 The analysis summarizes the dataset and creates basic outputs for interpretation.
+
 License
 
 This project is for educational use only.
+
 AI Assistance Disclosure
 
 I used ChatGPT to help draft and organize the README structure. I reviewed the Markdown formatting manually and made edits for clarity.
