@@ -41,13 +41,5 @@ I used ChatGPT to help draft and organize the README structure. I reviewed the M
 
 ---
 
-### 5. Scroll down
 
-You will see:
 
-👉 **Commit changes**
-
-Write:
-
-```text
-Updated README
