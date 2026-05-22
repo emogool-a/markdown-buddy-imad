@@ -1,1 +1,19 @@
-# markdown-buddy-imad
+# R Data Analysis Project
+
+## Overview
+This project demonstrates a simple R data analysis workflow using a synthetic dataset.
+
+## Objectives
+- Import and inspect data
+- Summarize key variables
+- Create simple visualizations
+- Document the workflow clearly
+
+## Data Description
+The project uses a synthetic dataset for learning purposes. No real or personal data is used.
+
+## Installation
+Install the required R packages:
+
+```r
+install.packages("tidyverse")
