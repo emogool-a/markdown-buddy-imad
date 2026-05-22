@@ -17,3 +17,14 @@ Install the required R packages:
 
 ```r
 install.packages("tidyverse")
+Usage
+
+Run the R script in RStudio or Posit Cloud.
+library(tidyverse)
+
+data <- data.frame(
+  category = c("A", "B", "C"),
+  value = c(10, 20, 15)
+)
+
+summary(data)
