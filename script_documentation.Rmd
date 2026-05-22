@@ -1,0 +1,35 @@
+---
+title: "R Script Documentation"
+author: "Imad Ramadan"
+date: "2026"
+output: html_document
+---
+
+# Overview
+This document describes a simple R script used for basic data analysis.
+
+# Objective
+The purpose of this script is to create a dataset and generate summary statistics.
+
+# Code Example
+
+```r
+# Load library
+library(tidyverse)
+
+# Create sample data
+data <- data.frame(
+  category = c("A", "B", "C"),
+  value = c(10, 20, 15)
+)
+
+# Display summary
+summary(data)
+
+Explanation
+
+The script creates a simple dataset with categories and values, then summarizes it using the summary() function.
+
+Conclusion
+
+This demonstrates a basic R workflow including data creation and analysis.
